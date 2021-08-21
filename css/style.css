@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.bold-hr {
+  border: 2px dotted black;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+/* promo button */
+#promo-btn {
+  background: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+
+button:hover {
+  background-color: grey;
+  font-weight: bolder;
+}
